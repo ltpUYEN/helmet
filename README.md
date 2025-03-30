@@ -1,4 +1,4 @@
-# Helmet.fi - Libraries Dataset and Analysis
+# Helmet.fi - Helsinki Metropolitan Area Libraries Dataset and Analysis
 
 ## Project Overview
 

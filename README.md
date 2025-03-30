@@ -57,10 +57,9 @@ Subsequent analysis using SQL explored several aspects of the collected library 
 * Data validation confirmed the uniqueness of `Library_ID`s after removing duplicates. NULL value checks were performed.
 * The distribution of libraries varies across the zones (Espoo, Helsinki, Kauniainen, Vantaa), with [Zone Name] having the most libraries. 
 * The dataset includes entries for mobile libraries operating within the network.
-* The library with the longest name identified is '[Longest Library Name]'. 
 
 ## Future Work / Limitations
 
 * The data reflects the state of the Helmet website at the time of scraping and may become outdated.
-* Scraping could be expanded to include detailed information like addresses, opening hours, contact details, and services offered by each library (likely requiring scraping individual library pages).
+* Scraping could be expanded to include detailed information like addresses, opening hours, contact details, and services offered by each library.
 * Error handling in the Python script could be enhanced.

@@ -13,20 +13,6 @@ Driven by a personal interest in exploring local libraries, particularly while l
 
 ## Tech Stack & Workflow
 
-1.  **Web Scraping (Python):**
-    * `requests`: To fetch the HTML content from the Helmet website.
-    * `BeautifulSoup4`: To parse the HTML and extract relevant data elements.
-    * `pandas`: To structure the scraped data into a DataFrame and export it to a CSV file (`libraries.csv`).
-2.  **Data Storage:**
-    * CSV file (`libraries.csv`) as an intermediate storage format.
-  
-3.  **Data Cleaning & Analysis (SQL):**
-    * Standard SQL queries were used for data validation, cleaning, and performing analytical tasks.
-
-**Workflow:**
-
-## Tech Stack & Workflow
-
 * **Tools:** Python (`requests`, `beautifulsoup4`, `pandas`), MySQL, MySQL Workbench, DBeaver, VS Code extension.
 * **Workflow Summary:** Data Scraped (Python) -> Processed & URLs Generated (Python/Pandas) -> Exported to CSV -> Loaded into DBeaver -> Validated, Cleaned & Analyzed (MySQL in VsCode).
 

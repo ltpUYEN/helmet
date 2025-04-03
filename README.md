@@ -99,8 +99,8 @@ WHERE ZONE = 'Helsinki'
 **All detailed SQL scripts used for data validation and exploratory analysis are available in:**
 [Data analysis](./data_analysis.sql)
 
-**The database schema definition can be found in:**
-[Data analysis](./data_analysis.sql)
+**All Python scripts used for data processing are available in:** 
+[Data processing](./data_processing.py)
 
 ## Key Findings
 

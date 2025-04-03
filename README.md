@@ -32,8 +32,6 @@ Driven by a personal interest in exploring local libraries, particularly while l
 
 ## Validation, Analysis & Code
 
-## Validation, Analysis & Code
-
 Data validation was performed using MySQL to ensure the integrity and consistency of the Helmet library data. Key validation steps included:
 * Standardizing column names for consistency (e.g., renaming `Library ID` to `Library_ID`).
 * Identifying and removing duplicate library entries based on `Library_ID`.

@@ -95,10 +95,11 @@ WHERE ZONE = 'Helsinki'
 | 84919      | Viikki Library                | Helsinki | https://www.helmet.fi/en-US/Libraries_and_services/Viikki_Library         |
 | 84880      | Vuosaari Library              | Helsinki | https://www.helmet.fi/en-US/Libraries_and_services/Vuosaari_Library       |
 
+
 **All detailed SQL scripts used for data validation and exploratory analysis are available in:**
 [Data analysis](./data_analysis.sql)
 
-**(Optional) The database schema definition, if created separately, can be found in:**
+**The database schema definition can be found in:**
 [Data analysis](./data_analysis.sql)
 
 ## Key Findings

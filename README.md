@@ -29,7 +29,7 @@ Subsequent analysis using SQL explored several aspects of the collected library 
 * Identifying the library with the longest recorded name.
 * Searching for and listing mobile library units.
 
-* Scripts & Output example
+  **Scripts & Output example**
 
 ```sql
 --8. Select libraries in Helsinki, excluding specialized types 

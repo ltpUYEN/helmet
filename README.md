@@ -88,9 +88,9 @@ WHERE ZONE = 'Helsinki'
 
 ## Key Findings
 
-* The dataset contains information on [Total Number] libraries across the Helmet network after cleaning.
+* The dataset contains information on libraries across the Helmet network after cleaning.
 * Data validation confirmed the uniqueness of `Library_ID`s after removing duplicates. NULL value checks were performed.
-* The distribution of libraries varies across the zones (Espoo, Helsinki, Kauniainen, Vantaa), with [Zone Name] having the most libraries. 
+* The distribution of libraries varies across the zones (Espoo, Helsinki, Kauniainen, Vantaa), with Helsinki having the most libraries. 
 * The dataset includes entries for mobile libraries operating within the network.
 
 ## Future Work / Limitations

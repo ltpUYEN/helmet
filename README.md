@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Driven by a personal interest in exploring local libraries, particularly while living in Helsinki, this project undertakes the collection, cleaning, and analysis of data from Helmet libraries. Serving Helsinki, Espoo, Kauniainen, and Vantaa, the data is sourced via web scraping using Python from the official Helmet website, subsequently processed, and analyzed using SQL to uncover useful insights about these libraries located in the Uusimaa region.
+Driven by a personal interest in exploring local libraries, particularly while living in Helsinki, this project undertakes the collection, cleaning, and analysis of data from Helmet libraries. Serving Helsinki, Espoo, Kauniainen, and Vantaa, the data is sourced via web scraping using Python from Helmet website, subsequently processed, and analyzed using SQL to uncover useful insights about these libraries located in the Uusimaa region.
 
 ## Data Source
 

@@ -56,7 +56,7 @@ FROM libraries
 WHERE ZONE = 'Helsinki'
   AND library_Name NOT RLIKE 'mobile|hospital|service|children';
   
--- 9. Find the mobile libraries
+-- 9. Find all the mobile libraries
 SELECT *
 FROM libraries
 WHERE LOWER(library_Name) LIKE LOWER('%mobile%');
